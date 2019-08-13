@@ -38,7 +38,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "bcrypt-rs"
+name = "bcrypt-generator"
 version = "0.1.0"
 dependencies = [
  "bcrypt 0.5.0 (registry+https://github.com/rust-lang/crates.io-index)",
