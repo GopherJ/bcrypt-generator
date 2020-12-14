@@ -5,8 +5,8 @@
 ### Usage
 
 ```rust
-bcrypt 1.0
-Cheng JIANG <cheng.jiang@ubudu.com>
+bcrypt 2.0
+Cheng JIANG <alex_cj96@foxmail.com>
 bcrypt hash generation/verification
 
 USAGE:
